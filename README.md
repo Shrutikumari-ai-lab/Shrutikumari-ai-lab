@@ -1,4 +1,12 @@
 HI THERE ! WELCOME TO MY GITHUB PROFILE
+ I'm Shruti Kumari 👋
+
+🎓 BBA Student | Aspiring Data Scientist  
+📊 Data Analyst Intern at Instrovate Technology  
+💻 Skilled in Python, SQL, Excel, and Power BI  
+📍 Based in Kolkata, India
+
+I love working with data, building dashboards, and solving real-world problems using analytics.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruti-k-91514732a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sv6632570@gmail.com) 
 
