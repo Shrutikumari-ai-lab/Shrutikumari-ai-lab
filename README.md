@@ -29,3 +29,10 @@ I love working with data, building dashboards, and solving real-world problems u
 [![](https://visitcount.itsvg.in/api?id=Shrutikumari-ai-lab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![Shruti GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrutikumari-ai-lab&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Shrutikumari-ai-lab&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutikumari-ai-lab&layout=compact&theme=github_dark)
