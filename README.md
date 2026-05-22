@@ -1,7 +1,7 @@
 HI THERE ! WELCOME TO MY GITHUB PROFILE
  I'm Shruti Kumari 👋
 
-🎓 BBA Student | Aspiring Data Scientist  
+🎓 BBA graduate |CURRENTLY PURSUING MASTER IN ARITIFICIAL INTELLIGENCE & MACHINE LEARNING | Aspiring Data Scientist  
 📊 Data Analyst Intern at Instrovate Technology  
 💻 Skilled in Python, SQL, Excel, and Power BI  
 📍 Based in Kolkata, India
