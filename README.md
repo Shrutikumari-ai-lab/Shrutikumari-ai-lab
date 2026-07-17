@@ -101,13 +101,13 @@ PostgreSQL ER Modeling Product Analysis pgAdmin
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrutikumari-ai-lab&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shrutikumari-ai-lab&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shrutikumari-ai-lab&theme=github_dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Shrutikumari-ai-lab&theme=github-dark&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutikumari-ai-lab&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shrutikumari-ai-lab&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 🌐 Connect with Me
@@ -127,5 +127,3 @@ PostgreSQL ER Modeling Product Analysis pgAdmin
   </a>
 </p>
 <p align="center"><i>💬 "Data is the new oil, but insight is the engine."</i></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
